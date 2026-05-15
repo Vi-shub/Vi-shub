@@ -133,16 +133,16 @@ I work across **AI, modern web stacks, and systems-level tools**, building produ
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vi-shub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vi-shub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" alt=" " />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vi-shub&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=f57842&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi-shub&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
 
-</div>
+</div> -->
 
 <br/>
 
@@ -156,9 +156,11 @@ I work across **AI, modern web stacks, and systems-level tools**, building produ
 ---
 
 <!-- Contribution Snake -->
-# 📈 GitHub Contributions
 <div align="center">
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/vi-shub" alt="GitHub contribution chart" />
+</p>
 
 
 </div>
